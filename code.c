@@ -60,7 +60,7 @@ pthread_join(thread3, NULL);
 printf("The average:  %g\n", avg);
 printf("The minimum:  %d\n", min);
 printf("The maximum:  %d\n", max);
- exit(EXIT_SUCCESS);
+exit(EXIT_SUCCESS);
 }
  
 void *avg1(void *ptr){
