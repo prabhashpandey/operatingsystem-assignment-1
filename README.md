@@ -17,4 +17,5 @@ The variables representing the average, minimum, and maximum values will be stor
 
 
 The code can be read from code.c 
+
 The explanation about the question can be read from explanation.
