@@ -7,8 +7,7 @@ void *min1(void *ptr);
 void *max1(void *ptr);
 
 double avg;        
-int min;
-int max;
+int min,max;
 
 typedef struct data{
 int s;
