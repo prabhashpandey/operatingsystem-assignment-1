@@ -1,0 +1,11 @@
+Multithreading means performing any task without having to make multiple copies of programming running in computer when there are multiple requests by user or multiple users at a time.
+
+For ex: If you want to open wynk music on your pc to listen 1 song. 1 thread will be assigned to open wynk music. Another thread will be required to play the song. Now if you want to add songs to the queue. So there will be another thread required to do the same.
+As you can see at the same time there are 3 threads running simultaneously for just 1 single process.
+Multiple threads are working, there are multiple functionality for a single process.
+This is called Multithreading.
+
+The question assigned to me is a multithreaded program that calculates various statistical values for a list of numbers.
+
+We need 3 threads. 1st to determine average, 2nd to determine maximum and the last to determine the minimum value.
+We will pass the series of numbers on the command line and will then create three separate worker threads.
